@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "data_visualisation/tidy_tuesday/post_1/post_1.html",
+    "href": "data_visualisation/tidy_tuesday/post_1/post_1.html",
+    "title": "First post",
+    "section": "",
+    "text": "All the code goes here."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Joao Santos",
@@ -7,18 +14,11 @@
     "text": "Welcome. I’m Joao and I work as a Trial and Data Manager for the Passport to Success trial at the Manchester Institute of Education, University of Manchester, United Kingdom.\nI occasionally ramble about R (programming language), statistics, and data visualisation. I use this website to work through some issues that pop up in my daily life around these topics. Hopefully some of my struggles (and potential solutions) will prove helpful to you. At the very least, they will be helpful to me, as a useful prompt to remember how I addressed issues that I found challenging/interesting.\nAll views and opinions in this platform are my own and do not represent those of my employer.\nIf you want to get in touch about any of my posts feel free to use the social media platforms below."
   },
   {
-    "objectID": "data_visualisation/index.html",
-    "href": "data_visualisation/index.html",
-    "title": "Data Visualisation",
+    "objectID": "playground/index.html",
+    "href": "playground/index.html",
+    "title": "Playground",
     "section": "",
-    "text": "First post\n\n\n\n\n\n\n\n\n2024-01-03\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "data_visualisation/tidy_tuesday/post_1/post_1.html",
-    "href": "data_visualisation/tidy_tuesday/post_1/post_1.html",
-    "title": "First post",
-    "section": "",
-    "text": "All the code goes here."
+    "text": "My first post\n\n\n\n\n\nHere is the first playground project. \n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "data_wrangling/index.html",
@@ -28,10 +28,10 @@
     "text": "My first post\n\n\n\n\n\nHere is the data wrangling process. \n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "playground/index.html",
-    "href": "playground/index.html",
-    "title": "Playground",
+    "objectID": "data_visualisation/index.html",
+    "href": "data_visualisation/index.html",
+    "title": "Data Visualisation",
     "section": "",
-    "text": "My first post\n\n\n\n\n\nHere is the first playground project. \n\n\n\n\n\nJan 3, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "First post\n\n\n\n\n\n\n\n\n2024-01-03\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   }
 ]

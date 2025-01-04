@@ -1,8 +1,8 @@
 [
   {
-    "listing": "/data_visualisation/index.html",
+    "listing": "/playground/index.html",
     "items": [
-      "/data_visualisation/tidy_tuesday/post_1/post_1.html"
+      "/playground/post_1/post_1.html"
     ]
   },
   {
@@ -12,9 +12,9 @@
     ]
   },
   {
-    "listing": "/playground/index.html",
+    "listing": "/data_visualisation/index.html",
     "items": [
-      "/playground/post_1/post_1.html"
+      "/data_visualisation/tidy_tuesday/post_1/post_1.html"
     ]
   }
 ]
