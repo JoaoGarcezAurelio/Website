@@ -1,0 +1,10 @@
+---
+title: "First post"
+description: "Let's hope this works"
+date: 01/03/2024
+categories:
+ - Data Wrangling
+ - R
+ - Tidyverse
+format: html
+---

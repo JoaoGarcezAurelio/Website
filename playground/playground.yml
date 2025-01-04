@@ -1,0 +1,8 @@
+- title: My first post 
+  # Photo by X on Unsplash
+  description: >
+    Here is the first playground project.
+  categories: [R, Project]
+  date: 01.03.2025
+  path: post_1/post_1.qmd
+

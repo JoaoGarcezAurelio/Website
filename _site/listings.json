@@ -1,0 +1,20 @@
+[
+  {
+    "listing": "/data_visualisation/index.html",
+    "items": [
+      "/data_visualisation/tidy_tuesday/post_1/post_1.html"
+    ]
+  },
+  {
+    "listing": "/data_wrangling/index.html",
+    "items": [
+      "/data_wrangling/post_1/post_1.html"
+    ]
+  },
+  {
+    "listing": "/playground/index.html",
+    "items": [
+      "/playground/post_1/post_1.html"
+    ]
+  }
+]

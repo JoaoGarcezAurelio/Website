@@ -1,0 +1,11 @@
+---
+title: "Data Visualisation"
+subtitle: Some of my data visualisation outputs
+listing: 
+  type: default
+  sort: "date"
+  date-format: iso
+  max-description-length: 250
+  categories: true
+  fields: [image, date, title, author, reading-time]
+---

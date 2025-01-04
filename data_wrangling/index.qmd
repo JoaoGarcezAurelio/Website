@@ -1,0 +1,8 @@
+---
+title: "Data Wrangling"
+subtitle: Some of my data wrangling
+listing: 
+  contents: data_wrangling.yml
+  max-description-length: 250
+---
+

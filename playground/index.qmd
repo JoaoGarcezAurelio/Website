@@ -1,0 +1,8 @@
+---
+title: "Playground"
+subtitle: Some of my free time projects
+listing: 
+  contents: playground.yml
+  max-description-length: 250
+format: html
+---

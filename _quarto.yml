@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Ramblings in Chaos"
+  page-footer: "Made with Quarto"
+  navbar:
+    left:
+      - text: Home 
+        href: index.qmd
+        icon: house
+      - text: Data Visualization
+        href: data_visualisation/index.qmd
+        icon: bar-chart-line
+      - text: Data Wrangling
+        href: data_wrangling/index.qmd
+        icon: database-check
+      - text: Playground
+        href: playground/index.qmd
+        icon: backpack2
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true
+    mainfont: Atkinson Hyperlegible
+editor: visual
+

@@ -1,0 +1,26 @@
+---
+title: "Joao Santos"
+subtitle: "Trial Manager, Data Manager, & Data Analyst"
+about:
+  template: jolla
+  image: Images/pic.JPG
+  links:
+    - icon: github
+      href: https://github.com/JoaoGarcezAurelio
+    - icon: mastodon
+      href: https://mastodon.social/@JGA
+    - icon: linkedin
+      href: https://www.linkedin.com/in/jo%C3%A3o-santos-a4a77514/
+    - icon: fingerprint
+      href: https://research.manchester.ac.uk/en/persons/joao.santos
+    - text: "{{< iconify simple-icons bluesky >}}"
+      href: https://bsky.app/profile/jgas.bsky.social
+---
+
+Welcome. I'm Joao and I work as a Trial and Data Manager for the [Passport to Success](www.passport2success.co.uk) trial at the [Manchester Institute of Education](https://www.seed.manchester.ac.uk/education/about/people/), [University of Manchester](https://www.manchester.ac.uk/), United Kingdom.
+
+I occasionally ramble about R (programming language), statistics, and data visualisation. I use this website to work through some issues that pop up in my daily life around these topics. Hopefully some of my struggles (and potential solutions) will prove helpful to you. At the very least, they will be helpful to me, as a useful prompt to remember how I addressed issues that I found challenging/interesting.
+
+All views and opinions in this platform are my own and do not represent those of my employer.
+
+If you want to get in touch about any of my posts feel free to use the social media platforms below.
