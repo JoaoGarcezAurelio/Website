@@ -36,6 +36,4 @@ format:
     toc: true
     mainfont: Atkinson Hyperlegible
 editor: visual
-execute:
-  freeze: auto
 
