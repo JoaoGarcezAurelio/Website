@@ -29,7 +29,6 @@ website:
         href: https://research.manchester.ac.uk/en/persons/joao.santos
       - text: "{{< iconify simple-icons bluesky >}}"
         href: https://bsky.app/profile/jgas.bsky.social
-      
 format:
   html:
     theme: flatly
@@ -37,4 +36,6 @@ format:
     toc: true
     mainfont: Atkinson Hyperlegible
 editor: visual
+execute:
+  freeze: auto
 
