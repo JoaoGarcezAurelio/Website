@@ -4,17 +4,6 @@ subtitle: "Trial Manager, Data Manager, & Data Analyst"
 about:
   template: jolla
   image: Images/pic.JPG
-  links:
-    - icon: github
-      href: https://github.com/JoaoGarcezAurelio
-    - icon: mastodon
-      href: https://mastodon.social/@JGA
-    - icon: linkedin
-      href: https://www.linkedin.com/in/jo%C3%A3o-santos-a4a77514/
-    - icon: fingerprint
-      href: https://research.manchester.ac.uk/en/persons/joao.santos
-    - text: "{{< iconify simple-icons bluesky >}}"
-      href: https://bsky.app/profile/jgas.bsky.social
 ---
 
 Welcome. I'm Joao and I work as a Trial and Data Manager for the [Passport to Success](www.passport2success.co.uk) trial at the [Manchester Institute of Education](https://www.seed.manchester.ac.uk/education/about/people/), [University of Manchester](https://www.manchester.ac.uk/), United Kingdom.
