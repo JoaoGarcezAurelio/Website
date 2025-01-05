@@ -18,6 +18,18 @@ website:
       - text: Playground
         href: playground/index.qmd
         icon: backpack2
+    right:
+      - icon: github
+        href: "https://github.com/JoaoGarcezAurelio"
+      - icon: mastodon
+        href: https://mastodon.social/@JGA
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jo%C3%A3o-santos-a4a77514/
+      - icon: fingerprint
+        href: https://research.manchester.ac.uk/en/persons/joao.santos
+      - text: "{{< iconify simple-icons bluesky >}}"
+        href: https://bsky.app/profile/jgas.bsky.social
+      
 format:
   html:
     theme: flatly

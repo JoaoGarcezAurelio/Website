@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 1af84003-6f2f-4c1c-97c9-b00c3154247a
+      url: https://joaogaurelio.netlify.app
